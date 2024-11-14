@@ -1,4 +1,4 @@
-# Team SIGCOM - Project Summary
+# Team SIGCOM - 2024 DCC Project Summary
 
 ### 팀 소개
 - **팀명:** TEAM SIGCOM (충북대학교 정보통신공학부)
