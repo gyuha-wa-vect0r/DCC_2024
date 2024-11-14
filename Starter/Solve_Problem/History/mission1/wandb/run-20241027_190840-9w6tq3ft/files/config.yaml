@@ -1,0 +1,36 @@
+_wandb:
+    value:
+        cli_version: 0.18.5
+        m: []
+        python_version: 3.9.20
+        t:
+            "1":
+                - 1
+                - 41
+                - 55
+                - 105
+            "2":
+                - 1
+                - 41
+                - 55
+                - 105
+            "3":
+                - 2
+                - 16
+                - 23
+                - 55
+            "4": 3.9.20
+            "5": 0.18.5
+            "8":
+                - 1
+                - 5
+            "12": 0.18.5
+            "13": linux-x86_64
+architecture:
+    value: CNN
+dataset:
+    value: ResNet-18
+epochs:
+    value: 25
+learning_rate:
+    value: 0.001

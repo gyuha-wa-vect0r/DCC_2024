@@ -1,0 +1,80 @@
+Using GPU: NVIDIA GeForce RTX 4060 Laptop GPU
+/home/gyuha_lee/miniconda3/envs/dcc2024/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home/gyuha_lee/miniconda3/envs/dcc2024/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=None`.
+  warnings.warn(msg)
+Epoch 1/25 시작
+Epoch [1/25] 학습 완료, Average Loss: 3.2206
+Validation Loss: 3.7013, Validation Accuracy: 6.62%
+Epoch 2/25 시작
+Epoch [2/25] 학습 완료, Average Loss: 3.0551
+Validation Loss: 4.1117, Validation Accuracy: 6.41%
+Epoch 3/25 시작
+Epoch [3/25] 학습 완료, Average Loss: 2.9752
+Validation Loss: 3.1167, Validation Accuracy: 11.15%
+Epoch 4/25 시작
+Epoch [4/25] 학습 완료, Average Loss: 2.8745
+Validation Loss: 3.8558, Validation Accuracy: 7.36%
+Epoch 5/25 시작
+Epoch [5/25] 학습 완료, Average Loss: 2.7827
+Validation Loss: 3.5998, Validation Accuracy: 7.99%
+Epoch 6/25 시작
+Epoch [6/25] 학습 완료, Average Loss: 2.6461
+Validation Loss: 4.8352, Validation Accuracy: 6.31%
+Epoch 7/25 시작
+Epoch [7/25] 학습 완료, Average Loss: 2.5415
+Validation Loss: 2.7476, Validation Accuracy: 17.56%
+Epoch 8/25 시작
+Epoch [8/25] 학습 완료, Average Loss: 2.4001
+Validation Loss: 3.4995, Validation Accuracy: 16.61%
+Epoch 9/25 시작
+Epoch [9/25] 학습 완료, Average Loss: 2.2237
+Validation Loss: 5.1374, Validation Accuracy: 9.57%
+Epoch 10/25 시작
+Epoch [10/25] 학습 완료, Average Loss: 2.0087
+Validation Loss: 3.3904, Validation Accuracy: 18.19%
+Epoch 11/25 시작
+Epoch [11/25] 학습 완료, Average Loss: 1.6694
+Validation Loss: 7.7057, Validation Accuracy: 8.31%
+Epoch 12/25 시작
+Epoch [12/25] 학습 완료, Average Loss: 1.2557
+Validation Loss: 7.4875, Validation Accuracy: 6.20%
+Epoch 13/25 시작
+Epoch [13/25] 학습 완료, Average Loss: 0.8224
+Validation Loss: 2.4128, Validation Accuracy: 39.54%
+Epoch 14/25 시작
+Epoch [14/25] 학습 완료, Average Loss: 0.4202
+Validation Loss: 2.3096, Validation Accuracy: 50.79%
+Epoch 15/25 시작
+Epoch [15/25] 학습 완료, Average Loss: 0.1921
+Validation Loss: 2.1851, Validation Accuracy: 54.26%
+Epoch 16/25 시작
+Epoch [16/25] 학습 완료, Average Loss: 0.0911
+Validation Loss: 1.8348, Validation Accuracy: 62.25%
+Epoch 17/25 시작
+Epoch [17/25] 학습 완료, Average Loss: 0.0494
+Validation Loss: 1.8255, Validation Accuracy: 62.57%
+Epoch 18/25 시작
+Epoch [18/25] 학습 완료, Average Loss: 0.0319
+Validation Loss: 1.8442, Validation Accuracy: 62.88%
+Epoch 19/25 시작
+Epoch [19/25] 학습 완료, Average Loss: 0.0255
+Validation Loss: 1.8443, Validation Accuracy: 61.83%
+Epoch 20/25 시작
+Epoch [20/25] 학습 완료, Average Loss: 0.0144
+Validation Loss: 1.8008, Validation Accuracy: 63.30%
+Epoch 21/25 시작
+Epoch [21/25] 학습 완료, Average Loss: 0.0137
+Validation Loss: 1.8802, Validation Accuracy: 63.09%
+Epoch 22/25 시작
+Epoch [22/25] 학습 완료, Average Loss: 0.0128
+Validation Loss: 1.8358, Validation Accuracy: 62.99%
+Epoch 23/25 시작
+Epoch [23/25] 학습 완료, Average Loss: 0.0112
+Validation Loss: 1.7674, Validation Accuracy: 62.57%
+Epoch 24/25 시작
+Epoch [24/25] 학습 완료, Average Loss: 0.0067
+Validation Loss: 1.7881, Validation Accuracy: 63.30%
+Epoch 25/25 시작
+Epoch [25/25] 학습 완료, Average Loss: 0.0040
+Validation Loss: 1.7751, Validation Accuracy: 62.46%

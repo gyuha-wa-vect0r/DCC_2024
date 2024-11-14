@@ -1,0 +1,1 @@
+전처리 과정 중 배경 제거된 사진들입니다. /dataset/bg_remove/training_image_no_bg,  /dataset/bg_remove/validation_image_no_bg
